@@ -1,0 +1,44 @@
+body {
+    background-color: #1550EC;
+}
+
+h1{
+    color: red;
+    text-align: center;
+    font-family: fantasy;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    border-left: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+ul li{
+    font-size: 20px
+}
+
+ol li{
+    font-size: 20px;
+}
+
+p {
+    text-align: justify;
+    font-family: 'Times New Roman', serif;
+    font-size: 20px;
+}
+

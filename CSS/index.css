@@ -1,0 +1,22 @@
+body {
+    background-color: #48FFAC;
+}
+
+h1{
+    color: red;
+    text-align: center;
+    font-family: fantasy;
+}
+
+ul.soft {
+    list-style-type: square;
+}
+
+ul li{
+    background: cyan;
+    margin-right: 40px;
+}
+
+a {
+    color: green;
+}
